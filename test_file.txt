@@ -1,0 +1,5 @@
+line 1 this will be under 140 characters to teste breaking up lines
+line 2 this will be at exactly 140 characters to test my splitter passes this up an just tweets it as normal help me I think I can hear voic
+line 3 this will be at exactly 139 characters to test my splitter passes this up an just tweets it as normal help me I think I can hear voi
+line 4 this will be over 140 characters to start testing my splitter functions it should be 141 we'll see if I can work that out thankfully i
+line 5 this will be 280 characters to test if it can handle two tweets I'm curious to see how it does with this it should be alright I have to check if line endings count as characters because I'm not a 100 percent sure on that one. If they do count then I'm going to have to figure out what
